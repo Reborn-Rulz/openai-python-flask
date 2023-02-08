@@ -1,6 +1,5 @@
-# openai-python-flask
+# OpenAI ChatGPT API
 
-OpenAI ChatGPT API
 
 
 Build your own OpenAI application
